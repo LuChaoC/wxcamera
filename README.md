@@ -1,5 +1,3 @@
-# wxcamera
-imitate wx taking picture and recording video
 # Introduce
 	This library is imitate WeiXin Camera
 # Use
